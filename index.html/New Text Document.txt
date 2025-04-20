@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI GLOBAL (PVT) Ltd</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="FB_IMG_1745060913752.jpg" alt="AI GLOBAL Logo" class="logo"/>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Welcome to AI GLOBAL (PVT) Ltd</h1>
+    <p>Your trusted partner in student visa consulting and overseas opportunities.</p>
+  </main>
+
+  <footer>
+    <p>WhatsApp: 0707335419 | 0702335419</p>
+    <p>Email: <a href="mailto:aiglobaleducation00@gmail.com">aiglobaleducation00@gmail.com</a></p>
+    <p>Follow us:
+      <a href="#">Facebook</a> |
+      <a href="#">Instagram</a> |
+      <a href="#">LinkedIn</a>
+    </p>
+  </footer>
+</body>
+</html>

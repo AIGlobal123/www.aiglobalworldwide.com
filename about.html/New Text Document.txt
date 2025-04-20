@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About - AI GLOBAL</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="FB_IMG_1745060913752.jpg" alt="AI GLOBAL Logo" class="logo"/>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>About Us</h1>
+    <p>AI GLOBAL (PVT) Ltd is a trusted Sri Lankan education consultancy agency, specializing in student visas for Japan, UK, USA, Canada, Australia, Europe, and more.</p>
+    <p>We have successful partnerships with Japanese language schools like Hana International Institute and Tokyo Japanese Language Center.</p>
+  </main>
+
+  <footer>
+    <p>WhatsApp: 0707335419 | 0702335419</p>
+    <p>Email: <a href="mailto:aiglobaleducation00@gmail.com">aiglobaleducation00@gmail.com</a></p>
+  </footer>
+</body>
+</html>
